@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheAlmightyMight
 - 👀 I’m interested in eSports, programming, language exchange, manga/anime.
-- 🌱 I’m currently learning FrontEnd developing.
-- 💞️ I’m looking to collaborate on Anything really.
+- 🌱 I’m currently learning FrontEnd developing. If you're interested in collaboration, I could provide you with some more detailed information about of what use I can be on your project.
+- 💞️ I’m looking to collaborate on whatever you would need an unexperienced Frontend developer.
 - 📫 How to reach me klimentykk@gmail.com
 
 <!---

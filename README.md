@@ -1,5 +1,5 @@
 
-<0l>
+<ol>
 <li>👋 Hello, my name is Klimenty and I go by the name of @TheAlmightyMight.</li>
 <li>👀 I’m interested in eSports, programming, language exchange.</li>
 <li>🌱 I’m currently learning FrontEnd developing.</li>

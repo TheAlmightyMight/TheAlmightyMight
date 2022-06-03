@@ -11,4 +11,6 @@
     <li> @TheAlmightyMight <b>(Telegram)</b></li>
     <li> https://vk.com/imaybeautistictho <b> (VKontakte) </b> </li>
   </ol>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/TheAlmightyMight/github-readme-stats)
 

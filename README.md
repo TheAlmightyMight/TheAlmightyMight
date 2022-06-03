@@ -9,5 +9,6 @@
   <ol> 
     <li> klimentykk@gmail.com <b>(Gmail)</b></li>
     <li> @TheAlmightyMight <b>(Telegram)</b>.</li>
+    <li> https://vk.com/imaybeautistictho <b> (VKontakte) </b> </li>
   </ol>
 

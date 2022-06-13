@@ -12,4 +12,6 @@
   </ol>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAlmightyMight)](https://github.com/TheAlmightyMight/github-readme-stats)
+  
+  [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
 

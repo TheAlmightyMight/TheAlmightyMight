@@ -1,6 +1,6 @@
 <h1> Hello and wellcome to my GitHub profile!</h1>
 
-<p>👋 My name is <b>Klimenty</b> and I go by the name of<strong> @TheAlmightyMight, currently employed by [Aston](https://astondevs.ru) </strong></p>
+<p>👋 My name is <b>Klimenty</b> and I go by the name of<strong> @TheAlmightyMight, currently employed by <a href="https://astondevs.ru" target="_blank">Aston</a> </strong></p>
 
 <h2>📫 How to reach me </h2>
   <ol> 

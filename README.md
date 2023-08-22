@@ -1,6 +1,6 @@
 <h1> Hello and wellcome to my GitHub profile!</h1>
 
-<p>👋 My name is <b>Klimenty</b> and I go by the name of<strong> @TheAlmightyMight</strong>, currently employed by <a href="https://www.simbirsoft.com" target="_blank">SimbirSoft</a></p>
+<p>Hello 👋, my name is <b>Klimenty</b> and I am a TypeScript / JavaScript frontend developer, currently employed by <a href="https://www.simbirsoft.com" target="_blank">SimbirSoft</a></p>
 
 <h2>📫 How to reach me </h2>
   <ol> 

@@ -2,9 +2,9 @@ Hello visitor, I am a TypeScript / JavaScript developer with expertise in both f
 
 <strong>📫 How to reach me <strong>
 <ol> 
-  <li> klimentykk@gmail.com <b>(Gmail)</b></li>
-  <li> <a href="https://t.me/TheAlmightyMight">@TheAlmightyMight</a><b>(Telegram)</b></li>
-  <li> <a href="https://www.linkedin.com/in/klimenty-karavaev/"><b>(LinkedIn)</b></a></li>
+  <li> Write me an email  <b>klimentykk@gmail.com</b></li>
+  <li> <a href="https://t.me/TheAlmightyMight">@TheAlmightyMight</a><b>Reach me on Telegram</b></li>
+  <li> <a href="https://www.linkedin.com/in/klimenty-karavaev/"><b>Connect with me on LinkedIn</b></a></li>
 </ol>
   
  

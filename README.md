@@ -2,9 +2,9 @@ Hello visitor 👋,
 
 I am a TypeScript / JavaScript developer with expertise in both frontend and backend development.
 
-My main tech stack: 
-- backend - (NodeJS 🌐, Express 🚀)
-- frontend - (React ⚛️, Vue 🍃)
+My main tech stack 
+- backend: NodeJS 🌐, Express 🚀
+- frontend: React ⚛️, Vue 🍃
 
 <strong>Contacting me 📫:</strong>
 
